@@ -15,7 +15,7 @@ This project is a testimonial slider built with React. It allows users to naviga
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mayur244/Testimonal_project_react.js
 
 2. **Navigate to the project directory:**
    ```bash
